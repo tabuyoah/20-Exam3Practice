@@ -230,12 +230,13 @@ def practice_problem3(start, n, threshold):
     k = start
     list = []
     while True:
+        if len(list) == n:
+            break
         trig_sum = math.sin(k) + math.cos(k)
         if trig_sum >= threshold:
             list = list +[k]
-        if len(list) == n:
-            return list
         k = k + 1
+    return list
 
 # -----------------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
