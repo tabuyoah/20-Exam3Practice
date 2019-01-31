@@ -310,8 +310,8 @@ def practice_problem4c(points):
     #     The testing code is already written for you (above).
     #
     # IMPORTANT: This problem is your LOWEST PRIORITY for preparing
-    #  for Test 2.  It is a great problem but WAY more subtle
-    #  than anything that you will see on Test 2.
+    #  for Test 3.  It is a great problem but WAY more subtle
+    #  than anything that you will see on Test 3.
     ###########################################################################
     # DIFFICULTY AND TIME RATINGS (see top of this file for explanation)
     #    DIFFICULTY:      9
